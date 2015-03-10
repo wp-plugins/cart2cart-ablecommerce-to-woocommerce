@@ -82,9 +82,9 @@ Yes. Cart2Cart uses dedicated Amazon CE2 server and all the data will be automat
 
 == Screenshots ==
 
-screenshot-1.jpg
-screenshot-2.jpg
-screenshot-3.jpg
+1. screenshot-1.jpg
+2. screenshot-2.jpg
+3. screenshot-3.jpg
 
 == Changelog ==
 
